@@ -1,4 +1,4 @@
-# LXFLaunchAdver
+# LXFLaunchAdvert
 这个可以让你在启动APP的时候，出现几秒钟的广告。
 
 ## 说明：
